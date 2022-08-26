@@ -1,3 +1,8 @@
+**Guiding Notes for Page Structure**
+- consider how we create a table of partners (name, domain of expertise, links, date of joining) sortable by readers
+- button to request becoming a partner
+- summary of partner-types
+
 # Contributing Partners
 
 ## First Derivative - Services & Consulting Partner
