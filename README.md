@@ -11,7 +11,7 @@
 # text in grey = notes
 ```
 
-# Partners - Overview
+# [5] PARTNERS
 ## Contributing Partners 
 [Placeholder - add comment]
 * [First Derivative - Services & Consulting Partner](https://github.com/FD-SustainableFinance/First-Derivative/tree/main)
