@@ -22,7 +22,7 @@ Table should contain:
 - link to website
 - other, tba
 
-All other content below should be removed
+All other content below should be removed/moved
 
 ----------------------------------------
 
