@@ -12,6 +12,20 @@
 ```
 
 # [5] PARTNERS
+This needs a table of contents listing each partner
+Table should contain:
+- Name of partner
+- date joined
+- area of specialisation
+- link to press release for joining OS-SFT
+- link to LinkedIn
+- link to website
+- other, tba
+
+All other content below should be removed
+
+----------------------------------------
+
 ## Contributing Partners 
 [Placeholder - add comment]
 * [First Derivative - Services & Consulting Partner](https://github.com/FD-SustainableFinance/First-Derivative/tree/main)
