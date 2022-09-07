@@ -11,7 +11,7 @@
 # text in grey = notes
 ```
 
-# [5] PARTNERS
+# [6] PARTNERS
 This needs a table of contents listing each partner
 Table should contain:
 - Name of partner
