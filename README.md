@@ -12,8 +12,13 @@
 ```
 
 # [6] PARTNERS
-This needs a table of contents listing each partner
-Table should contain:
+Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-SustainableFinance/teams), which is classified as follows:
+1. Contributing Partner - CONFIRMED as joined or EXPLORING to potentially join
+2. Observing Partner - CONFIRMED as joined or EXPLORING to potentialy join
+
+-------------------------
+## Table of Partners
+This needs a table of contents listing each partner, containing for example:
 - Name of partner
 - date joined
 - area of specialisation
@@ -26,8 +31,8 @@ All other content below should be removed/moved
 
 ----------------------------------------
 
-## Contributing Partners 
-[Placeholder - add comment]
+## Contributing Partners - ONFIRMED & EXPLORING
+Sample information - [Placeholder - add comment]
 * [First Derivative - Services & Consulting Partner](https://github.com/FD-SustainableFinance/First-Derivative/tree/main)
 * [Corlytics](https://github.com/FD-SustainableFinance/Corlytics/tree/main)
 * [Solidatus](https://github.com/FD-SustainableFinance/Solidatus/tree/main)
@@ -36,9 +41,10 @@ All other content below should be removed/moved
 * [Sust Global - Componentry Partner](https://github.com/FD-SustainableFinance/Sust-Global)
 * [Airbus - Componentry Partner](https://github.com/FD-SustainableFinance/Airbus/tree/main)
 
-## Observing Partners
+## Observing Partners - CONFIRMED & EXPLORING
 
 ### [Partner Name - Partner Type]
+Sample information - [Placeholder - add comment]
 
 [Summary]
 
