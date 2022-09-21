@@ -19,13 +19,9 @@ Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-Sustainable
 -------------------------
 ## Table of Partners
 This needs a table of contents listing each partner, containing for example:
-- Name of partner
-- date joined
-- area of specialisation
-- link to press release for joining OS-SFT
-- link to LinkedIn
-- link to website
-- other, tba
+|Name|Date Joined|Area of Specialisation| Press Release| Linkedin|Website|
+|----|-----------|----------------------|--------------|---------|-------|
+
 
 All other content below should be removed/moved
 
