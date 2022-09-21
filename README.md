@@ -25,7 +25,12 @@ This needs a table of contents listing each partner, containing for example:
 |Corlytics|  | | | | | |
 |Airbus| | | | | | |
 |Solidatus|  | | | | | |
-
+|KPMG|  | | | | | |
+|Gamma| | | | | | |
+|MereMer| | | | | | |
+|RiskCare| | | | | | |
+|Social Terrain| | | | | | |
+|Sust Global| | | | | | |
 
 All other content below should be removed/moved
 
