@@ -24,7 +24,7 @@ This needs a table of contents listing each partner, containing for example:
 |First Derivative|  | | | | | |
 |Corlytics|  | | | | | |
 |Airbus| | | | | | |
-|Solidatus|| | | | | |
+|Solidatus|| | | | | 
 All other content below should be removed/moved
 
 ----------------------------------------
