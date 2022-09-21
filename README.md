@@ -22,7 +22,9 @@ This needs a table of contents listing each partner, containing for example:
 |Name|Date Joined|Area of Specialisation| Press Release| Linkedin|Website|
 |----|-----------|----------------------|--------------|---------|-------|
 |First Derivative|  | | | | | |
-
+|Corlytics|  | | | | | |
+|Airbus| | | | | | |
+|Solidatus|| | | | | |
 All other content below should be removed/moved
 
 ----------------------------------------
