@@ -23,7 +23,7 @@ This needs a table of contents listing each partner, containing for example:
 |----|-----------|----------------------|--------------|---------|-------|
 |First Derivative|  | | | | | |
 |Corlytics|  | | | | | |
-|Airbus| | | | | | |
+|![AIRBUS_RGB](https://user-images.githubusercontent.com/101345051/191571325-15bb67ff-398f-4a6d-a8b1-a578c6ef171b.png)| | | | | | |
 |Solidatus|  | | | | | |
 |KPMG|  | | | | | |
 |Gamma| | | | | | |
