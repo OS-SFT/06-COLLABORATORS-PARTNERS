@@ -19,18 +19,18 @@ Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-Sustainable
 -------------------------
 ## Table of Partners
 This needs a table of contents listing each partner, containing for example:
-|Name|Date Joined|Area of Specialisation| Press Release| Linkedin|Website|
-|----|-----------|----------------------|--------------|---------|-------|
+|Name|Date Joined|Area of Specialisation| Press Release| Linkedin|Website|Contact|
+|----|-----------|----------------------|--------------|---------|-------|-------|
 |First Derivative|  | | | | | |
-|Corlytics|  | | | | | |
-|Airbus| | | | | | |
-|Solidatus|  | | | | | |
-|KPMG|  | | | | | |
-|Gamma| | | | | | |
-|MereMer| | | | | | |
-|RiskCare| | | | | | |
-|Social Terrain| | | | | | |
-|Sust Global| | | | | | |
+|Corlytics|  | | | | | ||
+|Airbus| | | | | | ||
+|Solidatus|  | | | | | ||
+|KPMG|  | | | | | ||
+|Gamma| | | | | | ||
+|MereMer| | | | | | ||
+|RiskCare| | | | | | ||
+|Social Terrain| | | || | | |
+|Sust Global| | | | | || |
 
 All other content below should be removed/moved
 
