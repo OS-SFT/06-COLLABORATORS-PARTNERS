@@ -19,19 +19,29 @@ Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-Sustainable
 -------------------------
 ## Table of Partners
 This needs a table of contents listing each partner, containing for example:
-|Name|Date Joined|Area of Specialisation| Press Release| Linkedin|Website|Contact|
-|----|-----------|----------------------|--------------|---------|-------|-------|
-|First Derivative|  | | | | | |
-|Corlytics|  | | | | | ||
-|Airbus| | | | | | ||
-|Solidatus|  | | | | | ||
-|KPMG|  | | | | | ||
-|Gamma| | | | | | ||
-|MereMer| | | | | | ||
-|RiskCare| | | | | | ||
-|Social Terrain| | | || | | |
-|Sust Global| | | | | || |
-
+|Name|Date Joined|Area of Specialisation|Type of Partner|Contribution|Press Release|Website|Contact|
+|----|-----------|----------------------|--------------|---------|-------|-------|---|
+|AIB|  | | | | | ||
+|Airbus|  | | | | | |||
+|BOI (Bank of Ireland)|  | | | | | |||
+|BPFI (Banking Payments Federation of Ireland|  | | | | | |||
+|Corlytics| | | | | | |||
+|FIBI (Federation of International Banks in Ireland)| | | | | | |||
+|First Derivative|  | | | | | |||
+|Forward ESG| | | | | | |||
+|FPAI (Fintech & Payments Associatin Ireland)| | | | | | |||
+|Gamma| | | | | | |||
+|Google| | | || | | ||
+|KPMG| | | | | || ||
+|MereMer| | | | | || ||
+|Moody's| | | | | || ||
+|NatWest Group| | | | | || ||
+|Permanent TSB | | | | | || ||
+|Red Hat | | | | | || ||
+|RiskCare| | | | | || ||
+|Sustainable Finance CoE| | | | | || ||
+|Sustainable Finance Skillnet Ireland| | | | | || ||
+|Sustainable Finance Ireland| | | | | || ||
 All other content below should be removed/moved
 
 ----------------------------------------
