@@ -33,10 +33,10 @@ This needs a table of contents listing each partner, containing for example:
 |Gamma| 13/09/2022 | |CONTRIBUTING | | |https://gamma.ie/# |||
 |Google| | | || | | ||
 |KPMG| | | | | || ||
-|MereMer| | | | | || ||
-|Moody's| | | | | || ||
-|NatWest Group| | | | | || ||
-|Permanent TSB | | | | | || ||
+|MereMer| |28/09/2022| | | |www.meremer.org| ||
+|Moody's|EXPLORING | | | | || ||
+|NatWest Group|EXPLORING | | | | || ||
+|Permanent TSB |EXPLORING | | | | || ||
 |Red Hat | | | | | || ||
 |RiskCare| | | | | || ||
 |Sustainable Finance CoE| | | | | || ||
