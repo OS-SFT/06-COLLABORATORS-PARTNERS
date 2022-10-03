@@ -29,8 +29,8 @@ This needs a table of contents listing each partner, containing for example:
 |FIBI (Federation of International Banks in Ireland)| 15/09/2022 | |OBSERVING | | | ||| 
 |First Derivative|  | | | | | |||
 |Forward ESG| | | | | | |||
-|FPAI (Fintech & Payments Associatin Ireland)| | | | | | |||
-|Gamma| | | | | | |||
+|FPAI (Fintech & Payments Associatin Ireland)| 15/09/2022 | |OBSERVING | | | ||| 
+|Gamma| 13/09/2022 | |CONTRIBUTING | | | |https://gamma.ie/#||
 |Google| | | || | | ||
 |KPMG| | | | | || ||
 |MereMer| | | | | || ||
