@@ -37,7 +37,7 @@ This needs a table of contents listing each partner, containing for example:
 |Moody's|EXPLORING | | | | || ||
 |NatWest Group|EXPLORING | | | | || ||
 |Permanent TSB |EXPLORING | | | | || ||
-|Red Hat | | | | | || ||
+|Red Hat |13/09/2022 | | | | |https://www.redhat.com/en/global/united-kingdom-ireland?sc_cid=701f2000000towPAAQ| ||
 |RiskCare| | | | | || ||
 |Sustainable Finance CoE| | | | | || ||
 |Sustainable Finance Skillnet Ireland| | | | | || ||
