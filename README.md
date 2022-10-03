@@ -42,6 +42,11 @@ This needs a table of contents listing each partner, containing for example:
 |Sustainable Finance CoE| | | | | || ||
 |Sustainable Finance Skillnet Ireland| | | | | || ||
 |Sustainable Finance Ireland| | | | | || ||
+|Social Terrain| | | | | || ||
+|Solidatus| | | | | || ||
+|Sust Global| | | | | || ||
+|The HALO Trust| | | | | || ||
+
 All other content below should be removed/moved
 
 ----------------------------------------
