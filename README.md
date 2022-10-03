@@ -22,7 +22,7 @@ This needs a table of contents listing each partner, containing for example:
 |Name|Date Joined|Area of Specialisation|Type of Partner|Contribution|Press Release|Website|Contact|
 |----|-----------|----------------------|--------------|---------|-------|-------|---|
 |AIB| EXPLORING | | | | | ||
-|Airbus|21/09/2022  | |CONTRIBUTING| | | |https://www.intelligence-airbusds.com/||
+|Airbus|21/09/2022  | |CONTRIBUTING| | |https://www.intelligence-airbusds.com/|||
 |BOI (Bank of Ireland)|  | | | | | |||
 |BPFI (Banking Payments Federation of Ireland|  | | | | | |||
 |Corlytics| | | | | | |||
