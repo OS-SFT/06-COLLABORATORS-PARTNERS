@@ -30,7 +30,7 @@ This needs a table of contents listing each partner, containing for example:
 |First Derivative|  | | | | | |||
 |Forward ESG| | | | | | |||
 |FPAI (Fintech & Payments Associatin Ireland)| 15/09/2022 | |OBSERVING | | | ||| 
-|Gamma| 13/09/2022 | |CONTRIBUTING | | | |https://gamma.ie/#||
+|Gamma| 13/09/2022 | |CONTRIBUTING | | |https://gamma.ie/# |||
 |Google| | | || | | ||
 |KPMG| | | | | || ||
 |MereMer| | | | | || ||
