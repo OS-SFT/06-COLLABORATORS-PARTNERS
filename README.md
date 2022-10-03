@@ -21,12 +21,12 @@ Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-Sustainable
 This needs a table of contents listing each partner, containing for example:
 |Name|Date Joined|Area of Specialisation|Type of Partner|Contribution|Press Release|Website|Contact|
 |----|-----------|----------------------|--------------|---------|-------|-------|---|
-|AIB| EXPLORING | | | | | ||
+|AIB| EXPLORING | |CONTRIBUTING | | | ||
 |Airbus|21/09/2022  | |CONTRIBUTING| | |https://www.intelligence-airbusds.com/|||
-|BOI (Bank of Ireland)|  | | | | | |||
-|BPFI (Banking Payments Federation of Ireland|  | | | | | |||
+|BOI (Bank of Ireland)| EXPLORING | | CONTRIBUTING| | | |||
+|BPFI (Banking Payments Federation of Ireland| 15/09/2022 | |OBSERVING | | | |||
 |Corlytics| | | | | | |||
-|FIBI (Federation of International Banks in Ireland)| | | | | | |||
+|FIBI (Federation of International Banks in Ireland)| 15/09/2022 | |OBSERVING | | | ||| 
 |First Derivative|  | | | | | |||
 |Forward ESG| | | | | | |||
 |FPAI (Fintech & Payments Associatin Ireland)| | | | | | |||
