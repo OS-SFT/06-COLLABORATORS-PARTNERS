@@ -20,32 +20,32 @@ Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-Sustainable
 ## Table of Partners
 This needs a table of contents listing each partner, containing for example:
 |Name|Date Joined|Area of Specialisation|Type of Partner|Contribution|Press Release|Contact|
-|----|-----------|----------------------|--------------|---------|-------|-------|---|
-|AIB| EXPLORING | |CONTRIBUTING | | | ||
-|[Airbus](https://www.intelligence-airbusds.com/)|21/09/2022  | |CONTRIBUTING| | |||
-|BOI (Bank of Ireland)| EXPLORING | | CONTRIBUTING| | | |||
-|BPFI (Banking Payments Federation of Ireland| 15/09/2022 | |OBSERVING | | | |||
-|Corlytics| | | | | | |||
-|FIBI (Federation of International Banks in Ireland)| 15/09/2022 | |OBSERVING | | | ||| 
-|First Derivative|  | | | | | |||
-|Forward ESG| | | | | | |||
-|FPAI (Fintech & Payments Associatin Ireland)| 15/09/2022 | |OBSERVING | | | ||| 
-|Gamma| 13/09/2022 | |CONTRIBUTING | | |[Gamma]https://gamma.ie/# |||
-|Google| | | || | | ||
-|KPMG| | | | | || ||
-|MereMer| |28/09/2022| | | |www.meremer.org| ||
-|Moody's|EXPLORING | | | | || ||
-|NatWest Group|EXPLORING | | | | || ||
+|----|-----------|----------------------|--------------|---------|-------|-------|
+|AIB| EXPLORING | |CONTRIBUTING | | | |
+|[Airbus](https://www.intelligence-airbusds.com/)|21/09/2022  | |CONTRIBUTING| | ||
+|BOI (Bank of Ireland)| EXPLORING | | CONTRIBUTING| | | ||
+|BPFI (Banking Payments Federation of Ireland| 15/09/2022 | |OBSERVING | | | ||
+|Corlytics| | | | | | ||
+|FIBI (Federation of International Banks in Ireland)| 15/09/2022 | |OBSERVING | | | |||
+|First Derivative|  | | | | | ||
+|Forward ESG| | | | | | ||
+|FPAI (Fintech & Payments Associatin Ireland)| 15/09/2022 | |OBSERVING | | | |||
+|Gamma| 13/09/2022 | |CONTRIBUTING | | |[Gamma]https://gamma.ie/# ||
+|Google| | | || | | |
+|KPMG| | | | | || |
+|MereMer| |28/09/2022| | | |www.meremer.org| |
+|Moody's|EXPLORING | | | | || |
+|NatWest Group|EXPLORING | | | | || |
 |Permanent TSB |EXPLORING | | | | || ||
-|Red Hat |13/09/2022 | | | | |https://www.redhat.com/en/global/united-kingdom-ireland?sc_cid=701f2000000towPAAQ| ||
-|RiskCare| | | | | || ||
-|Sustainable Finance CoE| | | | | || ||
-|Sustainable Finance Skillnet Ireland| | | | | || ||
-|Sustainable Finance Ireland| | | | | || ||
-|Social Terrain| | | | | || ||
-|Solidatus| | | | | || ||
-|Sust Global| | | | | || ||
-|The HALO Trust| | | | | || ||
+|Red Hat |13/09/2022 | | | | |https://www.redhat.com/en/global/united-kingdom-ireland?sc_cid=701f2000000towPAAQ| |
+|RiskCare| | | | | || |
+|Sustainable Finance CoE| | | | | || |
+|Sustainable Finance Skillnet Ireland| | | | | || |
+|Sustainable Finance Ireland| | | | | || |
+|Social Terrain| | | | | || |
+|Solidatus| | | | | || |
+|Sust Global| | | | | || |
+|The HALO Trust| | | | | || |
 
 All other content below should be removed/moved
 
