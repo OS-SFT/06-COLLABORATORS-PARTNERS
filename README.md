@@ -30,14 +30,14 @@ This needs a table of contents listing each partner, containing for example:
 |First Derivative|  | | | | | ||
 |Forward ESG| | | | | | ||
 |FPAI (Fintech & Payments Associatin Ireland)| 15/09/2022 | |OBSERVING | | | |||
-|Gamma| 13/09/2022 | |CONTRIBUTING | | |[Gamma]https://gamma.ie/# ||
+|[Gamma](https://gamma.ie/#)| 13/09/2022 | |CONTRIBUTING | | | ||
 |Google| | | || | | |
 |KPMG| | | | | || |
-|MereMer| |28/09/2022| | | |www.meremer.org| |
+|[MereMer](www.meremer.org)| |28/09/2022| | | || |
 |Moody's|EXPLORING | | | | || |
 |NatWest Group|EXPLORING | | | | || |
 |Permanent TSB |EXPLORING | | | | || ||
-|Red Hat |13/09/2022 | | | | |https://www.redhat.com/en/global/united-kingdom-ireland?sc_cid=701f2000000towPAAQ| |
+|[Red Hat](https://www.redhat.com/en/global/united-kingdom-ireland?sc_cid=701f2000000towPAAQ) |13/09/2022 | | | | || |
 |RiskCare| | | | | || |
 |Sustainable Finance CoE| | | | | || |
 |Sustainable Finance Skillnet Ireland| | | | | || |
