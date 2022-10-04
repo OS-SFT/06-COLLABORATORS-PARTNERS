@@ -44,9 +44,9 @@ This needs a table of contents listing each partner, containing for example:
 |Sustainable Finance Ireland| | | | | || |
 |Social Terrain| | | | | || |
 |Solidatus| | | | | || |
-|[Suade](https://suade.org/) | | | | | || |
+|[Suade](https://suade.org/) |30/09/2022 | |CONTRIBUTING | | || |
 |Sust Global| | | | | || |
-|The HALO Trust| | | | | || |
+|[The HALO Trust] (https://www.halotrust.org/)| 03/10/2022| |OBSERVING | | || |
 
 All other content below should be removed/moved
 
