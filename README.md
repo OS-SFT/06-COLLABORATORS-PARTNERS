@@ -2,7 +2,8 @@
 
 ## Becoming a Partner - No Fees
 For the moment, we are keeping it simple, with no fees and with candidate partners assessed for membership based on the value they may bring to the project.
-To explore becoming a partners, contact [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/).
+
+### To explore becoming a partner, contact [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/).
 
 ## Types of Partner
 Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-SustainableFinance/teams), which is classified as follows:
