@@ -16,37 +16,44 @@ Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-Sustainable
 1. Contributing Partner - CONFIRMED as joined or EXPLORING to potentially join
 2. Observing Partner - CONFIRMED as joined or EXPLORING to potentialy join
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+
 -------------------------
 ## Table of Partners
 This needs a table of contents listing each partner, containing for example:
-|Name|Date Joined|Area of Specialisation|Type of Partner|Contribution|Press Release|Contact|
-|----|-----------|----------------------|--------------|---------|-------|-------|
-|AIB| EXPLORING | |CONTRIBUTING | | | |
-|[Airbus](https://www.intelligence-airbusds.com/)|21/09/2022  | |CONTRIBUTING| | ||
-|BOI (Bank of Ireland)| EXPLORING | | CONTRIBUTING| | | ||
-|BPFI (Banking Payments Federation of Ireland| 15/09/2022 | |OBSERVING | | | ||
-|Corlytics| | | | | | ||
-|FIBI (Federation of International Banks in Ireland)| 15/09/2022 | |OBSERVING | | | |||
-|First Derivative|  | | | | | ||
-|Forward ESG| | | | | | ||
-|FPAI (Fintech & Payments Associatin Ireland)| 15/09/2022 | |OBSERVING | | | |||
-|[Gamma](https://gamma.ie/#)| 13/09/2022 | |CONTRIBUTING | | | ||
-|Google| | | || | | |
-|KPMG| | | | | || |
-|[MereMer](www.meremer.org)| |28/09/2022| | | || |
-|Moody's|EXPLORING | | | | || |
-|NatWest Group|EXPLORING | | | | || |
-|Permanent TSB |EXPLORING | | | | || ||
-|[Red Hat](https://www.redhat.com/en/global/united-kingdom-ireland?sc_cid=701f2000000towPAAQ) |13/09/2022 | | | | || |
-|RiskCare| | | | | || |
-|Sustainable Finance CoE| | | | | || |
-|Sustainable Finance Skillnet Ireland| | | | | || |
-|Sustainable Finance Ireland| | | | | || |
-|Social Terrain| | | | | || |
-|Solidatus| | | | | || |
-|[Suade](https://suade.org/) |30/09/2022 | |CONTRIBUTING | | || |
-|Sust Global| | | | | || |
-|[The HALO Trust](https://www.halotrust.org/)| 03/10/2022| |OBSERVING | | || |
+
+
+
+| Code | Type | Name       | Date Joined      | Press Release | Key Contact   | Notes       | 
+| ---- | ---- | ---------- | -----------------| ------------- | ------------- | ----------- |
+| C001 | Contributing | [First Derivative](https://www.linkedin.com/company/first-derivative/about/) | 19-Oct-2022 | insert link | [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) | insert notes |
+| C002 | Contributing | [Red Hat](https://www.linkedin.com/company/red-hat/about/) | 19-Oct-2022 | insert link | Insert name LinkedIn | insert notes |
+| C003 | Contributing | [Airbus](https://www.intelligence-airbusds.com/) | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
+| C004 | Contributing | [Corlytics](https://www.linkedin.com/company/corlytics/about/) | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
+| C005 | Contributing | [Solidatus](add) | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
+| C006 | Contributing | [Gamma](https://www.linkedin.com/company/gamma-ltd/about/)| 19-Oct-2022 | insert link | Insert name LinkedIn | insert notes |
+
+
+|C013|Observing|[The HALO Trust](https://www.halotrust.org/)| 03/10/2022| |OBSERVING | | || |
+|C014|Observing|BPFI (Banking Payments Federation of Ireland| 15/09/2022 | |OBSERVING | | | ||
+|C015|Observing|FIBI (Federation of International Banks in Ireland)| 15/09/2022 | |OBSERVING | | | |||
+|C016|Observing|FPAI (Fintech & Payments Associatin Ireland)| 15/09/2022 | |OBSERVING | | | |||
+|C017|Contributing (tba)|Sustainable Finance CoE| | | | | || |
+
+|C000|Contributing|Forward ESG| | | | | | ||
+
+
+|C000|Contributing|[MereMer](www.meremer.org)| |28/09/2022| | | || |
+
+|C000|Contributing|RiskCare| | | | | || |
+
+|C000|Contributing|Social Terrain| | | | | || |
+
+|C000|Contributing|[Suade](https://suade.org/) |30/09/2022 | |CONTRIBUTING | | || |
+|C000|Contributing|Sust Global| | | | | || |
+
 
 All other content below should be removed/moved
 
