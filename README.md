@@ -1,26 +1,11 @@
-**PAGE STATUS**
-```diff
-- In Development
-```
-
-**PAGE KEY**
-```diff
-+ text in green = Ready to Publish
-! text in orange = Ready for Peer Review
-- text in red = In Development
-# text in grey = notes
-```
-
 # [6] PARTNERS
 Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-SustainableFinance/teams), which is classified as follows:
-1. Contributing Partner - CONFIRMED as joined or EXPLORING to potentially join
-2. Observing Partner - CONFIRMED as joined or EXPLORING to potentialy join
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Partner Types | Description |
+| ------------- | ----------- |
+| Contributing | Provides resources when possible and where applicable to support the research, design, build and maintanance of taxonomies and on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
+| Observing | Provides guidance when possible and where applicable on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
 
--------------------------
 ## Table of Partners
 This needs a table of contents listing each partner, containing for example:
 
