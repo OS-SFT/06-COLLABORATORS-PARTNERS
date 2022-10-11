@@ -14,7 +14,7 @@ Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-Sustainable
 
 | Partner Types | Description |
 | ------------- | ----------- |
-| Contributing | Provides resources when possible and where applicable to support the research, design, build and maintanance of taxonomies and on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
+| Contributing | Provides resources when possible and where applicable to support the research, design, build and maintenance of taxonomies and on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
 | Observing | Provides guidance when possible and where applicable on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
 
 ## Table of Partners
