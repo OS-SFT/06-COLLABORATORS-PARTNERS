@@ -25,7 +25,7 @@ This needs a table of contents listing each partner, containing for example:
 | Code | Type | Name       | Date Joined      | Press Release | Key Contact   | Notes       | 
 | ---- | ---- | ---------- | -----------------| ------------- | ------------- | ----------- |
 | C001 | Contributing | [First Derivative](https://www.linkedin.com/company/first-derivative/about/) | 19-Oct-2022 | insert link | [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) | insert notes |
-| C002 | Contributing | [Red Hat](https://www.linkedin.com/company/red-hat/about/) | 19-Oct-2022 | insert link | [Keith Lynch](https://www.linkedin.com/in/keithlynch/?originalSubdomain=ieinsert) | insert notes |
+| C002 | Contributing | [Red Hat](https://www.linkedin.com/company/red-hat/about/) | 19-Oct-2022 | insert link | [tba] | insert notes |
 | C003 | Contributing | [Airbus](https://www.intelligence-airbusds.com/) | 19-Oct-2022| insert link | [Vanessa Balmbra](https://www.linkedin.com/in/vanessa-balmbra/?originalSubdomain=uk) | insert notes |
 | C004 | Contributing | tba | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
 | C005 | Contributing | [Solidatus](https://www.solidatus.com/) | 19-Oct-2022| insert link |[Vince Lucey](https://www.linkedin.com/in/vince-lucey-9ab4a4/)| insert notes |
