@@ -29,7 +29,7 @@ This needs a table of contents listing each partner, containing for example:
 | C003 | Contributing | [Airbus](https://www.intelligence-airbusds.com/) | 19-Oct-2022| insert link | [Vanessa Balmbra](https://www.linkedin.com/in/vanessa-balmbra/?originalSubdomain=uk) | insert notes |
 | C004 | Contributing | tba | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
 | C005 | Contributing | [Solidatus](https://www.solidatus.com/) | 19-Oct-2022| insert link |[Vince Lucey](https://www.linkedin.com/in/vince-lucey-9ab4a4/)| insert notes |
-| C006 | Contributing | [Gamma](https://www.linkedin.com/company/gamma-ltd/about/)| 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
+| C006 | Contributing | [Gamma](https://www.linkedin.com/company/gamma-ltd/about/)| 19-Oct-2022 | insert link |[Richard Garry] (https://www.linkedin.com/in/richardgarry/)| insert notes |
 | C007 | Contributing | [Sust Global](https://www.linkedin.com/company/sustglobal/about/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
 | C008 | Contributing | [RiskCare](https://www.linkedin.com/company/riskcare/about/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
 | C009 | Contributing | [Suade Labs](https://www.linkedin.com/company/suade-labs/about/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
