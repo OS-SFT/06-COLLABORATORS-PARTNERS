@@ -28,7 +28,7 @@ This needs a table of contents listing each partner, containing for example:
 | C002 | Contributing | [Red Hat](https://www.linkedin.com/company/red-hat/about/) | 19-Oct-2022 | insert link | [Keith Lynch](https://www.linkedin.com/in/keithlynch/?originalSubdomain=ieinsert) | insert notes |
 | C003 | Contributing | [Airbus](https://www.intelligence-airbusds.com/) | 19-Oct-2022| insert link | [Vanessa Balmbra](https://www.linkedin.com/in/vanessa-balmbra/?originalSubdomain=uk) | insert notes |
 | C004 | Contributing | tba | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
-| C005 | Contributing | [Solidatus](add) | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
+| C005 | Contributing | [Solidatus](https://www.solidatus.com/) | 19-Oct-2022| insert link |[Vince Lucey](https://www.linkedin.com/in/vince-lucey-9ab4a4/)| insert notes |
 | C006 | Contributing | [Gamma](https://www.linkedin.com/company/gamma-ltd/about/)| 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
 | C007 | Contributing | [Sust Global](https://www.linkedin.com/company/sustglobal/about/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
 | C008 | Contributing | [RiskCare](https://www.linkedin.com/company/riskcare/about/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
