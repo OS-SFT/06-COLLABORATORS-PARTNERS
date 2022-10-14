@@ -73,7 +73,7 @@ This needs a table of contents listing each partner, containing for example:
 | C014 | Observing | [BPFI (Banking Payments Federation of Ireland)](https://www.linkedin.com/company/banking-and-payments-federation-ireland/about/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
 | C015 | Observing | [FIBI (Federation of International Banks in Ireland)](https://bpfi.ie/federation-of-international-banks-in-ireland/) | 19-Oct-2022 | insert link | Insert name LinkedIn | insert notes |
 | C016 | Observing | [FPAI (Fintech & Payments Associatin Ireland)](https://bpfi.ie/fintech-payments-association-of-ireland/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
-| C017 | Observing (tba) | SF COE (Sustainable Finance Centre Of Excellence) (site tba) | 19-Oct-2022 | insert link | Insert name LinkedIn | insert notes |
+| C017 | Observing | [tba] SF COE (Sustainable Finance Centre Of Excellence) (LinkedIn and website links tba) | 19-Oct-2022 | insert link | Insert name LinkedIn | insert notes |
 | Cxxx | Contributing / Observing | Add Organisation & LinkedIn About | dd-mmm-yyyy | insert link | insert name LinkedIn | insert notes |
 
 
