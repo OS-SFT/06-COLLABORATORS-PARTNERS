@@ -35,7 +35,7 @@
 </p>
 </details>
 
-# [6] PARTNERS
+# [6] COLLABORATOR & PARTNERS
 
 ## Becoming a Partner - No Fees
 For the moment, we are keeping it simple, with no fees and with candidate partners assessed for membership based on the value they may bring to the project.
