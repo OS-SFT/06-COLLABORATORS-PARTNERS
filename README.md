@@ -37,7 +37,7 @@
 
 # [6] COLLABORATOR & PARTNERS
 
-## Becoming a Collaborator & Partner - No Fees
+## Becoming a Collaborator or Partner - No Fees
 For the moment, we are keeping it simple, with no fees and with candidate c ollaborator or partners assessed for membership based on the value they may bring to the project.
 
 ### To explore becoming a partner, contact [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/).
