@@ -53,7 +53,6 @@ Each Collaborator or Partner has a team, found on [TEAMS](https://github.com/org
 
 
 ## Table of Collaborators & Partners
-This needs a table of contents listing each partner, containing for example:
 
 
 
