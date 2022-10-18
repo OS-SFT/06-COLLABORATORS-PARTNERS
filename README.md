@@ -37,21 +37,22 @@
 
 # [6] COLLABORATOR & PARTNERS
 
-## Becoming a Partner - No Fees
-For the moment, we are keeping it simple, with no fees and with candidate partners assessed for membership based on the value they may bring to the project.
+## Becoming a Collaborator & Partner - No Fees
+For the moment, we are keeping it simple, with no fees and with candidate c ollaborator or partners assessed for membership based on the value they may bring to the project.
 
 ### To explore becoming a partner, contact [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/).
 
-## Types of Partner
-Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-SustainableFinance/teams), which is classified as follows:
+## Types of Collaborators & Partners
+Each Collaboratos or Partner has a team, found on [TEAMS](https://github.com/orgs/FD-SustainableFinance/teams), which is classified as follows:
 
-| Partner Types | Description |
+| Types | Description |
 | ------------- | ----------- |
+| Collaborator | Provides advise and guidance when possible on Open Source and where applicable on the tactical and strategic prioritisation and additions to the backlog of taxonomies   |
 | Contributing | Provides resources when possible and where applicable to support the research, design, build and maintenance of taxonomies and on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
 | Observing | Provides guidance when possible and where applicable on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
-| Collaborator | Provides advise and guidance when possible on Open Source and where applicable on the tactical and strategic prioritisation and additions to the backlog of taxonomies   |
 
-## Table of Partners
+
+## Table of Collaborators & Partners
 This needs a table of contents listing each partner, containing for example:
 
 
