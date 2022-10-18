@@ -49,6 +49,7 @@ Each Partner has a team, found on [TEAMS](https://github.com/orgs/FD-Sustainable
 | ------------- | ----------- |
 | Contributing | Provides resources when possible and where applicable to support the research, design, build and maintenance of taxonomies and on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
 | Observing | Provides guidance when possible and where applicable on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
+| Collaborator | Provides advise and guidance when possible on Open Source and where applicable on the tactical and strategic prioritisation and additions to the backlog of taxonomies   |
 
 ## Table of Partners
 This needs a table of contents listing each partner, containing for example:
@@ -58,7 +59,7 @@ This needs a table of contents listing each partner, containing for example:
 | Code | Type | Name       | Date Joined      | Press Release | Key Contact   | Notes       | 
 | ---- | ---- | ---------- | -----------------| ------------- | ------------- | ----------- |
 | C001 | Contributing | [First Derivative](https://www.linkedin.com/company/first-derivative/about/) | 19-Oct-2022 | insert link | [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) | insert notes |
-| C002 | Contributing | [Red Hat](https://www.linkedin.com/company/red-hat/about/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
+| C002 | Collaborator | [Red Hat](https://www.linkedin.com/company/red-hat/about/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
 | C003 | Contributing | [tba] | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
 | C004 | Contributing | [tba] | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
 | C005 | Contributing | [Solidatus](https://www.solidatus.com/) | 19-Oct-2022| insert link |[Vince Lucey](https://www.linkedin.com/in/vince-lucey-9ab4a4/)| insert notes |
