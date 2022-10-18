@@ -23,7 +23,7 @@
 
 [5] [TAXONOMY BACKLOG](https://github.com/FD-SustainableFinance/05-TAXONOMY-BACKLOG)
 
-[6] [COLLABORATORS & PARTNERS](https://github.com/FD-SustainableFinance/06-PARTNERS)
+[6] [COLLABORATORS & PARTNERS](https://github.com/FD-SustainableFinance/06-COLLABORATORS-PARTNERS)
 
 [7] [NEWS](https://github.com/FD-SustainableFinance/07-NEWS)
 
