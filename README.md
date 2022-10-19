@@ -48,8 +48,8 @@ Each Collaborator or Partner has a team, found on [TEAMS](https://github.com/org
 | Types | Description |
 | ------------- | ----------- |
 | Collaborator | Provides advice and guidance when possible and where applicable on tactical and strategic issues on Open Source and related areas for the development of the project(s) |
-| Contributing | Provides resources when possible and where applicable to support the research, design, build and maintenance of taxonomies and on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
-| Observing | Provides guidance when possible and where applicable on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
+| Contributing Partner | Provides resources when possible and where applicable to support the research, design, build and maintenance of taxonomies and on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
+| Observing Partner | Provides guidance when possible and where applicable on the tactical and strategic prioritisation and additions to the backlog of taxonomies |
 
 
 ## Table of Collaborators & Partners
