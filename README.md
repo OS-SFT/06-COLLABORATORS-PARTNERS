@@ -61,7 +61,7 @@ Each Collaborator or Partner has a team, found on [TEAMS](https://github.com/org
 | C001 | Contributing | [First Derivative](https://www.linkedin.com/company/first-derivative/about/) | 19-Oct-2022 | insert link | [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) | insert notes |
 | C002 | Collaborator | [Red Hat](https://www.linkedin.com/company/red-hat/about/) | 19-Oct-2022 | insert link | [Keith Lynch](https://www.linkedin.com/in/keithlynch/?originalSubdomain=ie) | insert notes |
 | C003 | Contributing | [Airbus](https://www.linkedin.com/company/airbus-defence-and-space---intelligence) | 27-Feb-2023| [OS-SFT Press Release](https://www.linkedin.com/posts/os-blank_ossft-thebiggreenshort-sustainablefinance-activity-7036256398984278016-wgur?utm_source=share&utm_medium=member_desktop) | [Vanessa Balmbra](https://www.linkedin.com/in/vanessa-balmbra/) | insert notes |
-| C004 | Contributing | [tba] | 19-Oct-2022| insert link | insert name LinkedIn | insert notes |
+| C004 | Contributing | [tba] | dd-mmm-yyyy| insert link | insert name LinkedIn | insert notes |
 | C005 | Contributing | [Solidatus](https://www.solidatus.com/) | 19-Oct-2022| insert link |[Vince Lucey](https://www.linkedin.com/in/vince-lucey-9ab4a4/)| insert notes |
 | C006 | Contributing | [Gamma](https://www.linkedin.com/company/gamma-ltd/about/)| 19-Oct-2022 | insert link |[Richard Garry](https://www.linkedin.com/in/richardgarry/)| insert notes |
 | C007 | Contributing | [Sust Global](https://www.linkedin.com/company/sustglobal/about/) | 19-Oct-2022 | insert link | [Alastair MacGregor](https://www.linkedin.com/in/alastair-macgregor/?originalSubdomain=uk)| insert notes |
