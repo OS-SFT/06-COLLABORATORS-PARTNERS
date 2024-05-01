@@ -65,7 +65,7 @@ Each Collaborator or Partner has a team, found on [TEAMS](https://github.com/org
 | C005 | Contributing | [Solidatus](https://www.solidatus.com/) | 19-Oct-2022| insert link |[Vince Lucey](https://www.linkedin.com/in/vince-lucey-9ab4a4/)| insert notes |
 | C006 | Contributing | [Gamma](https://www.linkedin.com/company/gamma-ltd/about/)| 19-Oct-2022 | insert link |[Richard Garry](https://www.linkedin.com/in/richardgarry/)| insert notes |
 | C007 | Contributing | [Sust Global](https://www.linkedin.com/company/sustglobal/about/) | 19-Oct-2022 | insert link | [Alastair MacGregor](https://www.linkedin.com/in/alastair-macgregor/?originalSubdomain=uk)| insert notes |
-| C008 | Contributing | [RiskCare (a bip Group company)](https://www.linkedin.com/company/riskcare/about/) | 19-Oct-2022 | insert link | [David Kelly](https://www.linkedin.com/in/davidkerrkelly/)| insert notes |
+| C008 | Contributing | [RiskCare (a BIP Group company)](https://www.linkedin.com/company/riskcare/about/) | 19-Oct-2022 | insert link | [David Kelly](https://www.linkedin.com/in/davidkerrkelly/)| insert notes |
 | C009 | Contributing | [Suade Labs](https://www.linkedin.com/company/suade-labs/about/) | 19-Oct-2022 | insert link | insert name LinkedIn | insert notes |
 | C010 | Contributing | [MereMer](https://www.linkedin.com/company/m%C3%A8remer/about/) | 19-Oct-2022 | insert link | [Aidan Foley](https://www.linkedin.com/in/aidan-foley-meremer/) | insert notes |
 | C011 | Contributing | [Social Terrain](https://www.linkedin.com/company/social-terrain/about/) | 19-Oct-2022 | insert link |[Emery Brusset](https://www.linkedin.com/in/emery-brusset-3526781/)| insert notes |
